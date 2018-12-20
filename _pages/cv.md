@@ -9,23 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+[A PDF version of my CV]() is also available.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Psychology, Minor in Philosophy, The University of Chicago, 2018
+* Ph.D. in Developmental Psychology, Stanford University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2014 - Spring 2018: Research Assistant
+  * The University of Chicago, Experience & Cognition Lab (PI: Dr. Daniel Casasanto)
+  * 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2016: Summer Research Intern
+  * Harvard University, Laboratory for Developmental Studies (PI: Dr. Susan Carey)
+  * 
+  
+* Summer 2015: Summer Research Intern
+  * Yale University, Cognition & Development Lab (PI: Dr. Frank Keil)
+  * 
   
 Skills
 ======
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* asdf

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year graduate student in developmental psychology at Stanford University.
+I'm a first-year PhD student in developmental psychology at Stanford University.
 
 I'm primarily interested in the role of language in how we represent categories. 
 
@@ -21,10 +21,11 @@ Other interests of mine include metaphor, non-literal language, and pragmatics, 
 
 Where I am and where I've been
 ======
+
 **In the academic world**
 
 Currently, I work with [Ellen Markman](http://markmanlab.stanford.edu) at Stanford University. I graduated from the University of Chicago in 2018, where I studied psychology and philosophy and worked in [Daniel Casasanto](http://casasanto.com)'s lab on the role of bodily experience in understanding language. As a summer intern, I studied the development of kind representations in [Susan Carey](https://psychology.fas.harvard.edu/people/susan-e-carey)'s lab at Harvard University, and biases in causal reasoning in [Frank Keil](https://cogdevlab.yale.edu/)'s lab at Yale University.
 
 **In the non-academic world**
 
-I have spent most of my life in big cities - New York, Chicago, Beijing, Hong Kong - so the Bay Area has been a change. You can find me climbing things and exploring caves, or driving anxiously and slowly on the highway (sorry!). I'm trying to keep in touch with my cultural roots by stir-frying and pushing the limits of my dorm kitchen vent. I've been involved for a long time in the [quizbowl community](http://www.pace-nsc.org/what-is-quizbowl-a-primer-and-faq-for-newcomers/), where I have been particularly interested in issues of representation and inclusivity.
+I have spent most of my life in big cities - New York, Chicago, Beijing, Hong Kong - so the Bay Area has been a change. You can find me climbing things and exploring caves, or driving anxiously and slowly on the highway (sorry!). My attempts at stir-fry push the limits of my dorm kitchen vent. I've been involved for a long time in the [quizbowl community](http://www.pace-nsc.org/what-is-quizbowl-a-primer-and-faq-for-newcomers/), where I have been particularly interested in issues of representation and inclusivity.

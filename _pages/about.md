@@ -17,7 +17,7 @@ Here are a handful of questions I've been pondering:
 - How does language shape children's developing category representations? For an example, how do the types of explanations we hear influence what we think about particular categories?
 - How variable and flexible are our category representations across different contexts and language experiences?
 
-Other interests of mine include metaphor, non-literal language, and pragmatics, as well as how we usually think about traditional philosophical problems regarding object identity and personal identity.
+Other interests of mine include metaphor, non-literal language, and pragmatics, as well as how people usually think about traditional philosophical problems regarding object identity and personal identity. I'm also curious about theories of the self and different modes of being.
 
 Where I am and where I've been
 ======

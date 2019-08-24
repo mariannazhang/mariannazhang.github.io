@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student in developmental psychology at Stanford University.
+I'm a second-year PhD student in developmental psychology at Stanford University.
 
 I'm primarily interested in the role of language in how we represent categories. 
 

@@ -24,7 +24,7 @@ Where I am and where I've been
 
 **In the academic world**
 
-Currently, I work with [Ellen Markman](http://markmanlab.stanford.edu) at Stanford University. I graduated from the University of Chicago in 2018, where I studied psychology and philosophy. At UChicago, I worked in [Daniel Casasanto](http://casasanto.com)'s lab on the role of bodily experience in understanding language. As a summer intern, I studied the development of kind representations in [Susan Carey](https://psychology.fas.harvard.edu/people/susan-e-carey)'s lab at Harvard University, and biases in causal reasoning in [Frank Keil](https://cogdevlab.yale.edu/)'s lab at Yale University.
+Currently, I work with [Ellen Markman](http://markmanlab.stanford.edu) at Stanford University. I graduated from the University of Chicago in 2018, where I studied psychology and philosophy. As an undergraduate, I explored the role of bodily experience in understanding language in [Daniel Casasanto](http://casasanto.com)'s lab at UChicago. As an undergraduate summer intern, I studied the development of kind representations in [Susan Carey](https://psychology.fas.harvard.edu/people/susan-e-carey)'s lab at Harvard University, and biases in causal reasoning in [Frank Keil](https://cogdevlab.yale.edu/)'s lab at Yale University.
 
 **In the non-academic world**
 

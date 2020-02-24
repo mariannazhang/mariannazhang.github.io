@@ -10,10 +10,10 @@ redirect_from:
 
 I'm a second-year PhD student in developmental psychology at Stanford University.
 
-I'm primarily interested in the role of language in how we represent categories.
+I'm primarily interested in the role of language in how we represent categories. Somehow as we grow up, we learn to carve the world into categories. We learn to parse the world in terms of dogs and cats, tables and chairs, and through the lens of social categories like gender and race.
 
 Here are a handful of questions I've been pondering:
-- How do we develop category representations? Given the infinite ways we could theoretically categorize the world, how do we learn what properties and distinctions are relevant, meaningful, and/or value-laden?
+- How do we develop these category representations? Given the infinite ways we could theoretically categorize the world, how do we learn what properties and distinctions are relevant, meaningful, and/or value-laden?
 - How does language shape children's developing category representations? For an example, how do the types of explanations we hear influence what we think about particular categories?
 - How variable and flexible are our category representations across different contexts and language experiences?
 

@@ -15,6 +15,7 @@ output:
       collapsed: no
 ---
 
+# Writing a personal statement for graduate school
 
 ## Preamble
 This page contains **informal personal advice** for prospective PhD students **from one person's particular experience and perspective** - it is not a comprehensive guide by any measure.

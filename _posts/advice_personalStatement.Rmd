@@ -16,7 +16,7 @@ require("knitr")
 ```
 
 ## Preamble
-This page contains **informal personal advice** for prospective PhD students **from one person's particular experience and perspective** - it is not a comprehensive guide by any measure. 
+This page contains **informal personal advice** for prospective PhD students **from one person's particular experience and perspective** - it is not a comprehensive guide by any measure.
 
 This advice is primarily based on my experience applying to US-based PhD programs in developmental psychology as a fourth-year domestic US undergraduate at a large research university in fall 2018.
 

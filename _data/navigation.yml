@@ -13,11 +13,11 @@ main:
 #   - title: "Portfolio"
 #     url: /portfolio/
 
-   - title: "Advice"
-     url: /year-archive/
-
    - title: "CV"
      url: /cv/
+
+   - title: "Advice"
+     url: /year-archive/
 
 
 #   - title: "Guide"

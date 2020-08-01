@@ -1,7 +1,7 @@
 ---
 title: "Writing a personal statement for graduate school"
 author: "Marianna Y. Zhang (marianna.zhang@stanford.edu)"
-date: "July 2020"
+date: 2020-07-11
 permalink: /advice/grad_school/personal_statement
 tags:
   - grad school

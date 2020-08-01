@@ -1,0 +1,333 @@
+---
+title: "Advice for prospective psychology PhD students"
+subtitle: ""
+author: "Marianna Y. Zhang (marianna.zhang@stanford.edu)"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 3
+    toc_float:
+      collapsed: no
+---
+
+```{r knitr-config, cache = FALSE, echo = FALSE, message = FALSE, warning = FALSE}
+require("knitr")
+```
+
+
+```{r setup, echo = FALSE, message = FALSE, warning = FALSE}
+#### Load relevant libraries and functions
+library(tidyverse)
+library(ggthemes)
+library(ggplot2)
+```
+
+```{r vis-theme, echo = FALSE, message = FALSE, warning = FALSE}
+# Set visualization theme
+theme_set(
+  ggthemes::theme_few() +
+  theme(text = element_text(size = 16)) # large text size for presentation figures
+)
+```
+
+## Preamble
+This page contains **informal personal advice** for prospective PhD students **from one person's particular experience and perspective** - it is not a comprehensive guide by any measure. I hope some of the advice offered here is helpful or relevant to you, but not all of it will be. None of you are exactly the fall 2018 version of me. **If you take anything away from this, please take with a grain of salt and adapt to suit your context and circumstances.**
+
+This advice is primarily based on my experience applying to US-based PhD programs in developmental psychology as a fourth-year domestic US undergraduate at a large research university in fall 2018.
+
+Details of this process vary across fields and subfields, so some of this advice may not hold outside of social science PhDs, outside of psychology PhDs, or even outside of developmental psychology PhDs. I applied to research-based PhDs, so I can't say anything of value unfortunately about clinical psychology PhDs. 
+
+How a PhD works also differs from country to country. In the US in current days, you're eligible to attend PhD programs after receiving your BA, and the PhD typically takes 5-6 years to complee. But in the UK (and perhaps other Commonwealth countries too, I'm not sure), people typically do a 2 year MA program and then a separate 3 year PhD program, and you need to have an MA to apply to PhD programs. Here, I'm exclusively focused on the US model of 5-6 year PhD programs. 
+
+I also applied to US programs as a US student. International students might face additional requirements, such as taking the TOEFL for English proficiency, and looking into the feasibility of visas and working abroad, which I have little insight on unfortunately. 
+
+Since I applied fall 2018, some of this information may be out of date. In particular, I unfortunately can't offer much insight on how the process may have changed in response to COVID-19, such as virtual events and cohort sizes. 
+
+Academia involves an endless transmission of knowledge, and this information for prospective PhD students is no exception. I owe the knowledge documented here to so many people, including but not limited to: Sam Johnson, Yarrow Dunham, Laurie Santos, Frank Keil, Jayden Ziegler, Narges Afshordi, Susan Carey, Jesse Snedeker, Susan Goldin-Meadow, Alex Shaw, and Anne Henly. Thank you, and passing on the favor! 
+
+## What is a PhD? 
+A PhD (Doctor of Philosophy) is an advanced educational degree that involves producing original research that contributes to human knowledge. A PhD means you're an expert in some field. In the US, a PhD typically takes 5 to 6 years. And typically, a PhD acts as a stepping-stone to a career in academia.
+
+The majority of PhD programs are fully funded!! That's right, you can be *paid* to explore questions you're passionate about. Not very well, but paid nonetheless! Your pay will come in the form of a *stipend*. In addition to recieving a stipend, the department will typically cover tuition for classes and fees each academic term, and health insurance and dental insurance for the duration of the program. 
+
+## Is a PhD right for you right now?
+Before you jump into the application process, hit pause and reflect on whether a PhD is right for you right now. A PhD is a big commitment! It's extremely important to check if that path is right for you at this moment, and if so, to choose that path intentionally and deliberately. 
+
+Here is a non-exhaustive list of questions to ask yourself before jumping in:
+
+
+### Are you passionate about some topic or set of questions?
+Is there a topic or set of questions about the world that you're fascinated by? Do you feel somewhat dissatisfied by what we currently know about that topic, or our current ability to answer those questions? 
+
+Do you feel super excited when you learn something about that topic, and feel the need to enthusiastically tell your friends, classmates, family, and/or random passersby the awesome fact you just learned?
+
+Do you have questions that you think about in the shower, or that keep you up at night? Would you consider paying a good amount of money to a genie to magically give you the answer to these questions, pause, and then decline because you want to discover the answer yourself? Is the idea of exploring out to the bounds of human knowledge on behalf of society, discovering something no human being has ever known before, and bringing it back to the society to contribute to human knowledge exciting to you? [illustration](http://matt.might.net/articles/phd-school-in-pictures/)
+
+These may sound like ridiculous and idealistic questions. But if you seriously considered any of them, you might have interests you'd enjoy exploring through academic research.
+
+
+### Are your interests are the right level of specificity for a PhD program?
+Great, so you have interests you're passionate about. Are those interests at right level of specificity for a PhD program? Too broad (eg "implicit bias"), and your research program could come off as unfocused. Too specific (eg "what the IAT reveals about Asian-Americans' negative stereotypes of African-Americans"), and you may not be able to convince people you could get more than a study or two, or that you could get 5-6 years of fruitful exploration out of the topic. 
+
+**It is extremely common to have interests that are too broad.** For example, studying just "language" or just "categorization" is probably too broad. Studying "how language affects categorization" is a bit better. Even better would be to specify one step further: what you mean by language (having a language vs no language, different languages compared, etc), what kinds of effects you're interested in, what kinds of categorization are you interested in, or what kinds of approaches, frameworks, or methodologies you hope to use. 
+
+Knowing if you've hit the right level of specificity is really tricky. This is not my best piece of advice ever, but honestly the best advice I have is just to try articulating your interests in a short paragraph, and checking with someone more established in the field (eg a grad student, a professor) for their thoughts on whether you've hit the right level of specificity. Checking and getting feedback from more established figures/mentors in the field will be a recurring theme throughout this process. 
+
+If your interests are very broad and you're not sure if you can commit to a more narrow interest, I'd recommend you take some time to explore and try out some of those more narrow interests (eg from "language" to "language learning" or "language and race"), especially in a research context (eg academic year RA, a full-time summer internship, full-time RA/post-bac program). See how you like thinking about one of those more narrow questions. If you find out you really like what you tried, awesome! Consider whether you'd like to commit to it. If you don't like what what you tried, that's great too - process of elimination has helped you narrow your interests down a bit further. Rinse and repeat. 
+
+### Do you enjoy research? Will you enjoy graduate school?
+It's one thing to have questions you're passionate about that are formulated at the right level of specificity. It's another thing entirely whether you'd actually enjoy the *experience* of graduate school, particularly research. 
+
+Pause and ask yourself: What does a graduate student do all day? Can you imagine yourself doing that for 5-6 years? Would you *enjoy* doing that for 5-6 years? 
+
+The majority of time in graduate school is focused on research, so consider whether you enjoy the process of research itself: reading papers, designing studies, collecting data, presenting your work... You may have experience with many of these research activities through your own research experience(s) - did you enjoy doing those activities? Would you enjoy doing those activities for a project related to your interests? (Keep in mind that you'll likely have more intellectual independence as a graduate student than you potentially had as an undergraduate, a lab manager, etc, and that you'll likely be doing these activities in pursuit of a project you design and care about.)
+
+Graduate students also do other activities besides research (teaching, mentoring, volunteer/service), but these other activities are secondary to research. Whether you enjoy research is the primary question to ask yourself. 
+If you're not sure you have a strong enough sense of what the day-to-day life of graduate students and academics is like, it might help to take some time to immerse yourself in a lab, ideally full-time. Full-time undergraduate summer internships, lab manager jobs, or full-time research assistant jobs are all great ways to immerse yourself in research full-time, work closely and develop relationships with graduate students, and get a glance into the life of a graduate student. You may also get a sense by doing research part-time, but part-time isn't the full research immersion experience that is the best simulation of graduate school. 
+
+It's totally fine to realize that you are really passionate about an idea, but don't want to pursue it in the context of academic research. Academia is a strange atmosphere in many ways, and it's not everyone's cup of tea. Talk to your mentor figures, department undergraduate liason, university career advancement office, friends and family about non-academic career paths. For example, if the idea of research interests you, but not academia, many companies have jobs that involve research activities. 
+
+Freedom - self-starter, lack of structure. working alone vs w others
+
+
+### Do you need a PhD to advance towards a career of interest?
+Is a PhD necessary to get to where you want to be? Most frequently, people choose to get PhDs to enter academia. To become an academic, you generally need a PhD in that field as a signal that you have been trained in the field and have made a contribution to the field. 
+
+One tip is to look at the CVs/resumes of role models and people you want to be. Did they need a PhD to get to where they are? Or is a BA or MA enough? 
+
+### Do you have relevant experience, particularly research experience, in this field?
+Having relevant research experience in this field demonstrates several things. You're passionate enough about this field that you've already searched out relevant research experience. You're equipped with some foundation of intellectual background, skills, and expertise that will allow you to make progress on the questions you're pitching. You're committed to the field, you like research, and you aren't going to ditch graduate school the moment you need to start doing research in the field. 
+
+
+### You're not just doing this because you're not sure what else to do with your life, right?
+This is unfortunately a very common mistake. "I've been doing school my whole life, I'm good at school, now graduation is coming up and I don't know what else to do with my life besides more school!" 
+
+Graduate school is not simply *more school*. Starting a PhD is a declaration of your intent to do research and become an expert in a specialized field of study - it will not prepare you broadly, as most colleges do, to become thoughtful citizens of the world. In fact, it typically represents a commitment to a few narrow career path(s), most typically academia. 
+
+The majority of college graduates don't go to graduate school. That doesn't mean going to graduate school makes you more special or more advanced than everyone else, and you certainly shouldn't be going to graduate school just to select a highest option on the education dropdown question. 
+
+The majority of college graduates don't go to graduate school *for good reason*. A PhD is a long poorly-paid commitment with distant payoff, and is usually for those very interested in a career in academia. 
+
+Above all, I think it's important to seize agency over your life and choose graduate school intentionally and deliberately. Don't go to graduate school because you're not sure what else to do - you risk winding up unhappy and in a long-term commitment to something you aren't that interested in. 
+
+
+### If you're not ready yet...
+Take some time to decide! A PhD is a big commitment, and kudos to you for having the maturity to recognize that you may need more time to figure things out. Taking time to decide is absolutely normal and good. In fact, I'd say the vast majority of incoming psychology PhD students in my program have taken time between undergrad and grad school. 
+
+Consider what else you would need before you can decide for sure. Do you want to have a better sense of what day-to-day life is like as a grad student? Do you need relevant research experience in this topic or field? Do you want some more financial security? Let these questions guide what you pursue next. 
+
+A common option is to be a lab manager or full-time research assistant (RA) for 2-3 years after undergrad. These positions immerse you full-time in a lab environment, so you can work on clarifying your interests, immersing yourself in research, building up your relevant research experience, and seeing what the life of a graduate student is like. 
+
+Lab manager and full-time RA jobs vary immensely from place to place in how much intellectual involvement you'll have in research projects, vs logistics/drudgework. You can expect to get more logistics/drudgework than you will as a graduate student. But the best lab manager and full-time RA jobs will give you some degree of intellectual ownership and research opportunities as well - this can be hard to tell sometimes from the advertisements, but try to suss this out through your social networks and in interviews. 
+
+A note on timing: lab manager and full-time RA jobs tend to be advertised at the start of the calendar year, around January through March, and due soon after (vs graduate school apps due earlier in November/December typically). Note that this is about the time you'll hear back from graduate school offers as well. So it can be feasible to apply to graduate school, wait to hear back from offers, and if you don't receive any offers or change your mind, you can apply that same year to lab manager and full-time RA jobs. 
+
+BUT if you choose graduate school deliberately and intentionally and check yourself with all these questions listed previously, you likely won't need to crunch both kinds of applications into the same cycle. 
+
+
+## Get organized, build your support network, and find resources.
+Spreadsheets, to do lists, calendars, budget.
+
+
+
+
+## Assemble a list of programs to apply to.
+### What do you want?
+Imagine your ideal advisor, program, place - what are your criteria and priorities?
+
+Adviser - what kind of advising style? Do you like a lot of guidance and structure, or do you 
+
+Check places against that criteria, stay organized using those criteria
+
+Avoid motivated reasoning for prestige of a university or program
+
+Okay if criteria change over course of process! 
+
+
+### Finding people, programs, schools (June-August)
+Small world - people know everyone else. get your in
+Talk to people
+Academic lineage - Stalk CVs, neurotree
+Twitter
+
+Search through department and program websites, faculty pages.
+
+**Ignore institution prestige.** Forget any prestige you had drilled into you when you were applying to college. First off, the overall strength of graduate school programs in psychology is not in the order of US News Report or other college rankings. Second, it's absurd to talk about a field-wide ranking when what's most important is *fit* with your specialized narrow interests. Again, look at your picture of your ideal adviser/program/place, focus on fit with those criteria, and ignore the name of the institution. Don't fall for a shiny name like Harvard or Stanford if you're going to be dissatisfied or miserable there for 5-6 years. 
+
+**Prioritize departments/programs where there are at least 2 faculty you could and would enjoy working with.** Putting all your eggs in one basket (with one adviser) is risky. It's always good to be safe and have someone else to work with, just in case something prevents you from working with that faculty member (eg turns out you don't get along with them, turns out they're abusive, they leave, etc.). And if your primary adviser is great, you'll already have identified a potential co-adviser or collaborator! 
+
+**Check that the funding structure of the program will support you.** You want to be at a place that will have the resources to support your growth and success. How much is the stipend at that place? Will it cover basic living expenses at that location? Will you have money to pay student loans, pay for medical treatments, send to family, etc? As a reminder, you should never ever pay to attend graduate school. And where does the stipend come from? Most programs have *egalitarian* funding structures, where your financial support comes from the department for 5-6 years. This is great, because you can switch advisers easily if need be, and signals a collaborative atmosphere where people don't feel loyal to one lab or feel worried about "betrayal" or competition. In contrast, some programs have *apprentice model* funding structures, where your financial support comes from your adviser (specifically their grant) for 5-6 years. This model is not ideal, because your work is tied up with a specific project and specific adviser, and you may not be able to work on other projects or work with other people as easily. You may not have as much intellectual freedom to study what you want and work with who you want. 
+
+**Check the requirements of the program.** What's the course structure like? How much do you need to TA? (Note often larger public universities have a much higher TA load than smaller private universities, due to a larger student body and larger courses.) What are the milestones leading up to the PhD dissertation? 
+
+Note on *considering your own undergraduate institution for graduate school*: Psychology is a big field, and if you've taken good advantage of the research opportunities at your undergraduate institution, it may be good to explore out a bit and get a new perspective. You might hear informal word that some institutions frown on their own undergraduates applying to their own graduate programs for this reason. But that informal norm varies so much from institution to institution and subfield/field to subfield/field that there's no universal rule. This is not to say it's a terrible idea to apply to your undergraduate institution - it might be a great fit for you. But personally, I love exploring new places and graduate school can be a great opportunity to get a new perspective, meet new people, and explore a new place. 
+
+### How many programs/schools should I apply to?
+I recommend applying to **5-10** programs/schools. This is such a wide range because there's no hard and fast perfect number of programs/schools you should apply to. 
+
+You should build your list to prepare for rejection. Rejection happens for so many arbitrary random reasons that you should just make your peace right now and assume you'll get rejected from some number of programs. So apply to more than 1 school. 
+
+Your list should be long enough that you'll have a good set of offers to choose between. Too few applications, and you risk being stuck with limited decisions.
+
+But your list should also be short enough to be practically and financially feasible. Each individual application takes time/effort (eg tailoring your statements, interview time), and money (eg application fee, maybe GRE score report fee). Too many applications, and you risk spreading your time and effort too thinly across each application, and not crafting a strong enough application for any program. 
+
+
+### Narrowing your list down
+
+
+### Check if potential adviser is taking students (by August)
+Great, so you have a list of potential programs/schools to apply to! But are the potential advisers *actually* taking graduate students this coming academic year? 
+
+Faculty might not take students for all kinds of reasons: they're swamped with their current students and current work and don't have the bandwidth to adequately mentor another student, they don't have the financial resources to support another student, they're retiring soon, etc. 
+
+First, check the professor's lab website or personal website. Occasionally, faculty will be kind and thoughtful and list whether they are taking graduate students for the coming year. 
+
+If you can't find such information publicly online, which you probably won't, **email them to ask if they are taking students**. Oh my god, cold emailing a professor, extremely scary, I know. Don't worry, it'll be a short 4-6 sentence email, and professors receive emails like these all the time. Here's how to write it: 
+
+- 1 sentence: Introduce yourself and what you're interested in (eg I'm a psychology major at Blah School interested in blah narrow and specific topic.)
+- 1-2 sentences: Describe a project you're currently working on, or a project you recently did that you're proud of, AND who you worked on that project with. The project gives them a tiny glimpse into the specific kinds of questions you ask and how you answer them. The adviser/supervisor namedrop (especially they're someone they might know) help them place you into the web of academia. 
+- 1 sentence: Describe how your interests relate to theirs, in genuine and specific way that isn't ripping words off their website. (eg Given my interests in Blah Narrow Topic, I really like your work on Blerg Specific Topic)
+- 1 sentence: Are you accepting PhD students for autumn ___? (If you're local, you can throw in an ask to see if there's an opportunity to visit, but don't expect a yes.)
+
+Here's what you might get in reply: 
+- Nothing. This is *not* a signal that they're not taking students, just that they might have been momentarily busy, or forgotten to reply. Faculty have perpetually exploding inboxs, and a slip means very little. If you really want to, you could bump the email after a week of silence. If they're still publishing frequently every year, and haven't retired, they're probably still taking students. 
+- "Yes, I'm taking grad students! I look forward to your application." Great! Your name has made an impression, and hopefully when they come across your application, it will ring a bell.
+- "Sorry, I'm not taking grad students." That's a bummer, sorry. Maybe there's someone else at this institution who is taking students, and you might get the opportunity to collaborate with this person? 
+
+
+### URMs: Check out Diversity Visit Days (ASAP)
+If you are a underrepresented minority in your field, see if any programs of interest are offering diversity visit days! These events have different names from place to place: diversity recruitment weekend ([Michigan](https://lsa.umich.edu/psych/diversity/diversity-recruitment-weekend.html)), sneak peak weekend ([Northwestern](https://www.psychology.northwestern.edu/diversity/sneak-peek.html), [Yale](https://psych.wustl.edu/news/yale-psychology-sneak-peek-phd-programs)), or wild acronyms ([Stanford SERGE](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-students/serge-stanford)). You'll need to do some digging on the department's website, or the university division's website (eg Division of Humanities & Sciences, or whatever division the department falls under). 
+
+Overall, these events are **all-expenses paid opportunities to visit a university, learn more about a program, and learn how to apply**. It's a great opportunity to visit and see how it feels to be there, get to know people there, get some info about whether the program is worth applying to, and if you really like it, start thinking about how to tailor your application for that program. 
+
+**Look into these programs as early as possible** and add them to your calendars/spreadsheets/to-do lists. These events occur some time in advance of the graduate application deadline, and you typically need to write a short application to apply to the program (another mini-application cycle, I know I know, but these applications are short and good prep for the actual application process). 
+
+
+
+## Assemble your application.
+
+Take a look at your spreadsheet for deadlines and dates
+
+### The personal statement (August-November)
+Listen up, this is the **most important part of your application**. You're a college student, you might have written 5 page papers in 24 hours, why does a 1-2 page statement take months to write? 
+
+Think of this statement as a snapshot of where you are now (your prior experience, your interests), and a pitch for where you want to be (your future research program 5-6 years out). This is a difficult piece of writing that may be unlike any other kind of writing you've done before, and it will go through so many rounds of revision. It will take a lot of time to think through, a lot of time to write, and so much revision. And it will take so so so much time to tailor to each individual program you are applying to. 
+
+The earlier you start on this, the better honestly. 
+
+
+#### Know your audience
+You'll have several readers of your statement you'll want to target: your primary faculty of interest, probably a few other faculty adjacent to that faculty of interset, and maybe some senior graduate students. Your statement and application will be part of dozens of statements and applications they'll read that day like yours, and part of hundreds they might be reading that month. They'll be rushed, their eyes will jump over walls of text, and they'll be wondering when they can end their day, but you want to knock through their stupor and shake them into enthusiasm and excitement. 
+
+#### Goals of the statement
+An ideal statement should show why you have potential to become a researcher, and why you're an ideal candidate for the adviser and for the program. It should show several things:
+- You have specific and narrow enough interests/set of research questions that would guide a coherent and fruitful research program for 5-6 years. You pitch these questions in ways that get the reader excited about how important and interesting they are. 
+- You're qualified 
+- You're intellectually mature. You've encountered difficulty and failure, and overcome them. You're resilient and prepared for the challenge of independent research. 
+- 
+
+#### Statement structure
+This is the standard 3-part structure for the personal statement that people have come up with to hit all the above goals for a cookie-cutter candidate. This is probably too rigid of structure - people come from much more diverse backgrounds and perspectives than the cookie-cutter candidate. But as they say, you've got to know the rules before you can break them. 
+
+Introduction: What are your interests?
+- **Start with a hook that immediately captures the reader's attention.** Why is this topic intellectually important? What drew you to this topic? What's something wild about this topic? If you're going to have a cutesy hook, definitely run it by someone else, and make sure it doesn't come off as cliche (eg "Ever since I was a child, I loved..."). More cutesy is generally greater risk - you could stand out more, but it could also not land right with the reader. 
+- **Describe your specific interests/research questions.**
+-- Start with the motivation for the topic. Why this is an important topic to focus on? What theoretical or practical issues are at stake? Why is this a topic that keeps you up at night, that is scientifically interesting, that is worth studying and funding? Start in non-technical accessible terms (without being pedantic) and gradually transition into scientific terms. 
+-- Introduce your broad topic/research questions, and then elaborate with some more specific questions. Specific interesting questions in technical terms gives the reader a glimpse of how you approach the question, and gives the reader confidence that you know what you're talking about. Talk about the topic in a way that other faculty you're targeting would resonate with, that vibe with the literature in the field (this part could be mildly tailored by program). 
+-- By the end of this first paragraph, the reader should be able to clearly articulate in 1 sentence or so what you're specifically interested in. 
+
+
+Body paragraphs: What was your journey and what are your qualifications?
+
+Concluding paragraph: Why this adviser, program, and institution?
+- This paragraph will be heavily tailored by program. 
+- Describe why your interests drew you to this program. What kind of graduate environment are you looking for (see your ideal picture)? How does this program or department fit with your ideal environment? Is there a rich environment of people working on this broad topic who you'd benefit from?
+- Name potential advisers, 1-2 people, maximum 3 people, who you'd like to work with. Why would you vibe with each of them? Are you particularly keen on working with one faculty advisor, and if so, why this particular person? If you are leaning more toward a cluster of advisors, as well as the department more generally, why? Name the faculty in the order you'd prefer to work with them (primary adviser first), and let the length of your description for each be a signal as well, ranging from a clause to 2-3 sentences (more length for primary adviser). Really try to reach out and excite the reader here: the reader is probably one of the people you listed! Faculty are thrilled by students who have read some of their work, have thought critically about it and other literature, and raise some interesting further questions or ideas to explore. And, it helps with admissions to have multiple faculty championing your case. 
+
+
+#### How to start writing
+"Ahh this statement is intimidating, where do I start?" Start by jotting down some freeform notes, spend a few minutes 
+
+#### Polish the draft through feedback
+**Get feedback on your statement from literally everyone you can get a hold of who knows something about your field** who isn't someone you're applying to work with (eg your research mentors, graduate students you know, TAs, professors of classes you've taken, department undergraduate liason). 
+
+Even someone who doesn't know about your field can be helpful (eg your roommate, your significant other, your family), they can help point out when you slide from accessible to technical terminology, the writing mechanics, etc.  
+
+#### Tailor the statement to each program
+a lot of time tailoring to each program
+Warning: but don't overtailor!! be truthful to yourself and your interests, represent them fairly. Acceptance as a more honest signal of fit - if you present yourself as interested in something you're not, which convinces someone to accept you, you're not going to have a fun 5-6 years. If you present yourself accurately, someone can honestly assess whether your interests would fit. 
+
+### Letters of recommendation (ask July/August)
+Don't be shy, just give them enough time. 
+It's literally their obligation to. They only got where they were because more senior figures wrote letters of recommendation for them, they have an obligation to pass it on. 
+
+Who to ask? 
+Ask people who know you well, who can speak to your research and scientific thinking abilities, ideally people who are familiar with the kind of work you're going to be doing in grad school. Usually research mentors, sometimes classroom faculty. 
+
+The most important thing is that they know you well, and can speak in compelling and specific detail about you. Do not sacrifice that to ask someone more famous or more prestigeous who doesn't know you as well. It is an extra bonus if the letter writer does know the person you're applying to work with (can help them potentially tailor, and prospective adviser might put extra trust in the letter), but don't force it. 
+
+When to ask?
+Once you've decided you're applying to grad school, and have finalized your list of writers, get them onboard early. You can confirm the details of what programs you're applying to later, but an early heads-up will help them plan, and help them jot down notes so they don't fade out of memory later. 
+
+Ask even earlier if it's been a while since you've had contact (will take some time to jog their memory), or if it's their first time writing a letter for you (they won't have a previous letter to adapt to this situation). 
+
+How to ask? 
+Ask the faculty *and* the graduate student or postdoc you worked with: "Are you able to write me a *strong* letter of recommendation for graduate school?". Strong is critical - give them an out
+
+Email both, sometimes the professor will write the letter themselves, sometimes the professor will ask the graduate student for a draft and add details, sometimes they'll co-write. Depends on their style. 
+
+
+Logistics
+Once they've confirmed they'll write, thank them, and let them know you're still figuring out a list of schools to apply to, but will send them a spreadsheet once you've confirmed the list in XX month. 
+
+Once send them a simplified spreadsheet of all the programs you're applying to, who at those programs you're applying to worth with, when the rec letters are due by, and how to submit the rec letter (eg I'll enter X email into the portal, and the portal will send you a submission email). This will make their lives easier and help them not forget about one of the many programs on your list. Let them know you'll ssioon to compelement and round-out your application. For example, an explanation for struggle with academics and research at a particular time in life, but growth and development from there, gives context to a dip in the transcript or a gap in the personal statement. Or a writer who knows you only in a classroom context might be able to speak to you leading class discussions, integrating multiple ideas, submitting a creative and independent project or presentation, etc. 
+
+Their rec letter should contain specific details about you (should be easy if you know each other well, will make the letter less cookie-cutter) that demonstrate that you have contributed to a research project, have developed research skills, and come up with great scientific insights. 
+
+After their letters are in...
+Send them updates!! Let them know if you're about to interview somewhere, let them know what offers you receive, what decisions you're considering. This likely won't be the last time you ask them for recommendation letters (see NSF GRFP) but it's probably the biggest and most important ask. 
+
+### Transcript and GPA
+Fee for transcript
+
+People like to see that you've gotten solid grades in difficult classes, that you've clearly pushed yourself to explore what you could explore at your home institution. Does your transcript reflect your exploration of classes relevant to what you're pitching yourself as interested in? If you're interested in social learning, have you taken psychology classes, developmental psychology classes, and if your department has a notable social learning researchers, have you taken a class with them? A grad seminar on social learning is a great opportunity and signal on your transcript. Obviously what classes are available will look different from institution to institution, and readers will take that into account. 
+
+It's also useful to have taken a statistics class or other quantitative class, which will prepare you well for doing the actual nuts-and-bolts of research. If you haven't taken stats, no worries, this should also be part of the first-year or early course curriculum at your graduate program. 
+
+
+### GRE
+Thankfully, this is not as important as you might think it is. Many programs are no longer accepting GRE scores in applications (#GRExit), due to concerns about what it actually signals and who it's a barrier for. 
+
+The GRE is terrible for many reasons: it costs an insane amount of money, sucks valuable time away from your life, your research, and your work on actually important parts of your application. 
+
+fee waiver: 
+
+studying: 
+
+### CV
+Honestly, I don't think that many readers look at this. They only look at it really if need they more background info about how long you worked in some lab. 
+
+Look at how the professors you want to work with have structured theirs; education, awards, publications, etc.
+
+
+
+
+
+## Interview and visit.
+informal videoconference meeting with potential adviser before visit
+
+program visit
+
+finances: 
+
+## Receive decisions.
+Prepare for rejection. 
+
+Lab manager/RA ships
+
+
+## Make your decision!
+This is my favorite part of the process. Now *you* have all the power in your hands. 
+
+

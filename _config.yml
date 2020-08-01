@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marianna Zhang"
 title_separator          : "-"
 name                     : &name "Marianna Zhang"
-description              : &description "PhD Student in Developmental Psychology (she/her/hers)"
+description              : &description "PhD Student in Developmental Psychology (she/her)"
 url                      : https://mariannazhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mariannazhang/mariannazhang.github.io"
@@ -83,12 +83,12 @@ author:
   name             : "Marianna Zhang"
   avatar           : "profile.jpg"
   bio              : "PhD Student in Developmental Psychology (she/her)"
-  location         : "Stanford University, 420-290"
+  location         : "Stanford University"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=U-SQQ48AAAAJ"
   email            : "marianna.zhang@stanford.edu"
   researchgate     : # "https://www.researchgate.net/profile/Marianna_Zhang"
-  uri              :
+  uri              : "https://mariannazhang.youcanbook.me"
   bitbucket        :
   codepen          :
   dribbble         :

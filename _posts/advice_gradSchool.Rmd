@@ -2,7 +2,7 @@
 title: "Advice for prospective psychology PhD students"
 subtitle: ""
 author: "Marianna Y. Zhang (marianna.zhang@stanford.edu)"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
+date: ""
 output:
   html_document:
     toc: yes

@@ -2,7 +2,7 @@
 title: "Writing a personal statement for graduate school"
 subtitle: ""
 author: "Marianna Y. Zhang (marianna.zhang@stanford.edu)"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
+date: 2020-07-11
 output:
   html_document:
     toc: yes

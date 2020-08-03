@@ -3,7 +3,7 @@ layout: post
 title: "Writing a personal statement for graduate school"
 author: "Marianna Y. Zhang (marianna.zhang@stanford.edu)"
 date: 2020-07-11
-permalink: /posts/2020/07/personal-statement/
+permalink: /_posts/2020/07/personal-statement-md/
 tags:
   - grad school
   - personal statement

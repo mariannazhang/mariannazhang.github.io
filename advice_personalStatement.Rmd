@@ -1,14 +1,12 @@
 ---
+layout: page
 title: "Writing a personal statement for graduate school"
-subtitle: ""
 author: "Marianna Y. Zhang (marianna.zhang@stanford.edu)"
 date: 2020-07-11
+permalink: "/personal-statement.html"
 output:
   html_document:
     toc: yes
-    toc_depth: 3
-    toc_float:
-      collapsed: no
 ---
 
 ```{r knitr-config, cache = FALSE, echo = FALSE, message = FALSE, warning = FALSE}
@@ -51,8 +49,11 @@ It’s helpful to have some idea of where/to whom you’re applying at this poin
 
 ## Goals of the statement
 Your personal statement will need to:
+
 1. **Describe the overarching intellectual interest that is motivating your pursuit of a PhD in X, and articulate a cohesive set of intellectual questions and approaches to these questions that you want to pursue in grad school.** You should have specific and narrow enough interests/set of research questions that would guide a coherent and fruitful research program for 5-6 years. Pitch these questions in ways that get the reader excited about how important and interesting they are. 
+
 2. **Weave a narrative of intellectual and academic experiences that have shaped your interest in these questions.** This section should also demonstrate that you have relevant experience in the topic that make you qualified to explore your particular questions with your particular approach in graduate school. This section should demonstrate that your intellectual maturity - you've encountered difficulty and failure (which are inevitable in grad school), and overcome them, and you're resilient and prepared for the challenge of independent research. 
+
 3. **Explain why this set of faculty at this program** is particularly suited to your development and furthering your intellectual goals. Why here?
 
 ## Statement structure

@@ -2,13 +2,7 @@
 title: "Advice for prospective psychology PhD students"
 subtitle: ""
 author: "Marianna Y. Zhang (marianna.zhang@stanford.edu)"
-date: ""
-output:
-  html_document:
-    toc: yes
-    toc_depth: 3
-    toc_float:
-      collapsed: no
+date: 2020-07-11
 ---
 
 ```{r knitr-config, cache = FALSE, echo = FALSE, message = FALSE, warning = FALSE}

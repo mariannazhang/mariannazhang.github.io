@@ -23,9 +23,7 @@ Where I am and where I've been
 ======
 
 **In the academic world**
-
 Currently, I work with [Ellen Markman](http://markmanlab.stanford.edu) at Stanford University. I graduated from the University of Chicago in 2018, where I studied psychology and philosophy. As an undergraduate, I explored the role of bodily experience in understanding language in [Daniel Casasanto](http://casasanto.com)'s lab at UChicago. As an undergraduate summer intern, I studied the development of kind representations in [Susan Carey](https://psychology.fas.harvard.edu/people/susan-e-carey)'s lab at Harvard University, and biases in causal reasoning in [Frank Keil](https://cogdevlab.yale.edu/)'s lab at Yale University.
 
 **In the non-academic world**
-
-I have spent most of my life in big cities - New York, Chicago, Beijing, Hong Kong - so the Bay Area has been a change. You can find me climbing things and exploring caves, or driving anxiously and slowly on the highway (sorry!). As part of my continual struggle to keep in touch with my Chinese heritage, I've been learning to cook Chinese food. I've been involved for a long time in the [quizbowl community](http://www.pace-nsc.org/what-is-quizbowl-a-primer-and-faq-for-newcomers/), where I have been particularly active on issues and projects relating to representation, diversity, and inclusivity.
+I'm a second-generation Asian American woman from New York. I'm an East Coast person at heart, and I've spent most of my life in big cities - New York, Chicago, Beijing, Hong Kong - so the Bay Area has been a change. You can find me climbing things and [exploring caves](https://www.sfbaycaving.org/), or driving anxiously and slowly on the highway (sorry!). I speak English (my native language) and Mandarin (my heritage language). I'm always excited to learn more about Chinese cooking. I've been involved in the [quizbowl community](http://www.pace-nsc.org/what-is-quizbowl-a-primer-and-faq-for-newcomers/) for more than a decade, where I have been particularly active on issues relating to diversity and inclusivity.

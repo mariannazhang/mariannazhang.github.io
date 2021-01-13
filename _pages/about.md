@@ -10,16 +10,16 @@ redirect_from:
 
 I'm a third-year PhD candidate in developmental psychology at Stanford University.
 
-From a young age, we learn to carve the world around us into categories. We learn to see the world in terms of dogs and cats, tables and chairs, and through the lens of social categories like gender and race.
+Social categories like gender and race structure so much of our human experience. Yet we're not born knowing all about these categories. Rather, from a young age, we learn to carve the world around us into categories: we learn to group people together, what it means to belong to this or that category, and what expectations and norms to deploy based on someone's category membership.
 
-I'm primarily interested in how we learn to represent these categories, and what role language plays in that process.
+I'm primarily interested in how we learn to represent these social categories, and what role language plays in that process.
 
 Here are a handful of questions I've been pondering:
-- How do we develop category representations? Given the infinite ways in which we could theoretically categorize the world, how do we learn what properties and distinctions are relevant, meaningful, and/or value-laden?
-- How does language shape how we think about categories? What do children learn about categories from the way we talk?
-- How variable and flexible are our category representations across different contexts, different language experiences, and development?
+- How do we develop representations of social categories? Given the infinite ways in which we could theoretically categorize the world, how do we learn what attributes and distinctions are relevant, meaningful, and/or value-laden?
+- How does language shape how we think about social categories? What do children learn about social categories from the way we talk about social categories? How might the way we talk sustain, recreate, or alter the social world we describe?
+- How should we reason about social categories, and how can we promote beneficial ways of understanding social categories?
 
-Other interests of mine include metaphor, non-literal language, and pragmatics, as well as how people usually think about traditional philosophical problems regarding object identity and personal identity. Although psychology is my home, I love learning about perspectives on these issues from philosophy, linguistics, gender studies, race/ethnic studies, and beyond.
+Other interests of mine include metaphor, non-literal language, and pragmatics, as well as how people usually think about traditional philosophical problems regarding object identity and personal identity. Although psychology is my home turf, I love learning about perspectives on these issues from philosophy, linguistics, gender studies, race/ethnicity studies, and beyond.
 
 Where I am and where I've been
 ======

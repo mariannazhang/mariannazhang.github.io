@@ -13,7 +13,7 @@ main:
    - title: "About me"
      url: /about/
 
-     - title: "CV"
+   - title: "CV"
      url: /cv/
 
    - title: "Teaching"

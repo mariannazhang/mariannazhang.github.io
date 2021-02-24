@@ -7,7 +7,7 @@ author_profile: true
 
 ## Philosophy & background
 
-A unifying thread that runs through my research, teaching, and service is understanding how people learn so efficiently and effectively, and what kinds of inputs and environments (what we say and do) allow such efficient and effective learning to occur.
+A unifying thread that runs through my research, teaching, and service is understanding how people learn, and what kinds of inputs and environments (what we say and do) allow efficient and effective learning to occur.
 
 I was a Teaching Fellow (TF) for [Stanford's Psych One program](https://psychone.stanford.edu/) in academic year 2019-20, for which I led or co-led 2 sections and graded assignments in autumn 2019, winter 2020, and spring 2020 (online).
 

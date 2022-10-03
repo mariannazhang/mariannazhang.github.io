@@ -1,16 +1,11 @@
 ---
-layout: page
-title: "Writing a personal statement for graduate school"
-author: "Marianna Y. Zhang (marianna.zhang@stanford.edu)"
-date: "July 2020"
-output:
-  html_document:
-    toc: yes
+permalink: /personal-statement/
+title: "Writing a personal statement for PhD programs in psychology"
+excerpt: "Writing a personal statement for PhD programs in psychology"
+author_profile: true
+redirect_from:
+  - /personal-statement
 ---
-
-```{r knitr-config, cache = FALSE, echo = FALSE, message = FALSE, warning = FALSE}
-require("knitr")
-```
 
 # Preamble
 This page contains **informal personal advice** for prospective PhD students **from one person's particular experience and perspective** - it is not a comprehensive guide by any measure.

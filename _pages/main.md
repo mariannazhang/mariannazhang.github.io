@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a **developmental cognitive scientist** studying **how children think about social differences, social disparities, and social structures**. 
 
-I'm currently a final-year PhD candidate in developmental psychology at Stanford University, working with [Ellen Markman](https://markmanlab.stanford.edu/) and graduating June 2024. will be an incoming postdoctoral researcher in developmental psychology at New York University, working with [Marjorie Rhodes](https://kidconcepts.org/), starting in August 2024. 
+I'm currently a final-year PhD candidate in developmental psychology at Stanford University, working with [Ellen Markman](https://markmanlab.stanford.edu/) and graduating in June 2024. Starting in August 2024, I'll be starting as a postdoctoral researcher in developmental psychology at New York University, working with [Marjorie Rhodes](https://kidconcepts.org/).
 
 Social categories like gender and race structure much of our society, shaping who gets access to resources, opportunities, and power. Think of the gender wage gap or racial achievement gap, for instance. What do children, growing up in such a society, think about these social differences and disparities that they see and experience? And as children grow up, how do those ways of thinking contribute to maintaining those differences or disparities in the first place? 
 

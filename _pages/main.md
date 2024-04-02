@@ -8,13 +8,14 @@ redirect_from:
   - /main.html
 ---
 
-I'm a fifth-year PhD candidate in developmental psychology at Stanford University, aiming to graduate in June 2024.
+I'm a **developmental cognitive scientist** studying **how children think about social differences, social disparities, and social structures**. 
 
-Social categories like gender and race structure much of our human experience. Yet we're not born knowing all about these categories. Rather, from a young age, we learn to draw conceptual borders to parse our social world. We learn on what basis to group people together, what it means to belong to this or that category, and what expectations and norms to deploy based on someone's category membership.
+I'm currently a final-year PhD candidate in developmental psychology at Stanford University, working with [Ellen Markman](https://markmanlab.stanford.edu/) and graduating June 2024. will be an incoming postdoctoral researcher in developmental psychology at New York University, working with [Marjorie Rhodes](https://kidconcepts.org/), starting in August 2024. 
 
-**I'm primarily interested in how we learn to represent social categories, and what role language plays in that process.** Here are a handful of questions I've been pondering.
-- How do we *develop* representations of social categories? Given the infinite ways in which we could theoretically categorize people, how do we learn what attributes and distinctions are relevant, meaningful, and/or value-laden?
-- How does *language* shape how we think about social categories? What do children learn about social categories from the way we talk about social categories? How might the way we talk sustain, recreate, or alter the social world we describe?
-- How *should* we reason about social categories? How can we promote beneficial ways of understanding social categories?
+Social categories like gender and race structure much of our society, shaping who gets access to resources, opportunities, and power. Think of the gender wage gap or racial achievement gap, for instance. What do children, growing up in such a society, think about these social differences and disparities that they see and experience? And as children grow up, how do those ways of thinking contribute to maintaining those differences or disparities in the first place? 
 
-Other random interests of mine include social ontology, conceptual ethics, applied philosophy of language, pragmatics, and speech acts. Although psychology and cognitive science is my home turf, I love learning about perspectives on these issues from philosophy, linguistics, gender studies, race & ethnicity studies, and beyond.
+I'm particularly interested in how **language** shapes children's thinking about such matters. How might the way we talk sustain, recreate, or alter the social differences and disparities we describe? 
+
+I'm also interested in how children think about the role of **social structures**, since many of the social disparities I'm interested in are ultimately structural in nature. Although thinking about social structures can be challenging for children, and even adults, children are capable of such structural thinking at a young age. How can we harness children's capacity for structural thinking for social good? 
+
+Other random interests of mine include social ontology, conceptual ethics, applied philosophy of language, pragmatics, and speech acts. Although psychology and cognitive science is my home turf, I love learning about perspectives on these issues from philosophy, linguistics, sociology, and beyond.

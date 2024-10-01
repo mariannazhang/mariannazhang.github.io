@@ -1,16 +1,16 @@
 ---
 permalink: /
 title: "Hello!"
-excerpt: "Hello!"
+excerpt: "I'm a developmental cognitive scientist studying how children think about social categories, like gender and race."
 author_profile: true
 redirect_from:
   - /main/
   - /main.html
 ---
 
-I'm a **developmental cognitive scientist** studying **how children think about social differences, social disparities, and social structures**. 
+I'm a developmental cognitive scientist studying **how children think about social categories, like gender and race** and how language and social structures shape that process. 
 
-I'm currently a postdoctoral fellow in developmental psychology at New York University, working with [Marjorie Rhodes](https://kidconcepts.org/) and funded by the [National Science Foundation](https://new.nsf.gov/funding/opportunities/sbe-postdoctoral-research-fellowships-sprf). I received by PhD in developmental psychology from Stanford University in 2024, working with [Ellen Markman](https://markmanlab.stanford.edu/).
+I'm currently a postdoctoral fellow in developmental psychology at New York University, working with [Marjorie Rhodes](https://kidconcepts.org/) and funded by the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2404708). I received by PhD in developmental psychology from Stanford University in 2024, working with [Ellen Markman](https://markmanlab.stanford.edu/).
 
 Social categories like gender and race structure much of our society, shaping who gets access to resources, opportunities, and power. Consider the gender wage gap or racial achievement gap, for example. What do children growing up in our society come to think about such social differences and disparities? And as children grow up, how do those ways of thinking contribute to maintaining such differences or disparities in the first place? 
 

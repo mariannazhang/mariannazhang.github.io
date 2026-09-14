@@ -92,8 +92,8 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Marianna Zhang"
-  pronouns         : # example: "she/her" -- NEW field (theme migration, Sept 2026); currently blank since "(she/her)" is already in the bio line below
-  bio              : "Postdoctoral Fellow in Developmental Psychology (she/her)"
+  pronouns         : "she/her"
+  bio              : "Postdoctoral Researcher in Developmental Psychology"
   location         : "New York University"
   employer         :
   uri              : # "https://mariannazhang.youcanbook.me"

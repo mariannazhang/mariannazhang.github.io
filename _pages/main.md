@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a developmental cognitive scientist studying **how we learn social categories**, from relatively minimal ones like pedestrians and drivers to rich and contentious ones like gender or racial categories. These categories help people navigate social life, by carving the complexity of humanity into neat (sometimes, too neat) categories, allowing people to notice and explain social regularities, to predict the behavior of others, and to communicate about the social world. 
 
-I'm currently a postdoctoral fellow at New York University, working with [Marjorie Rhodes](https://kidconcepts.org/) and [Mark Ho](https://codec-lab.github.io/). I received my PhD in developmental psychology from Stanford University in 2024, working with [Ellen Markman](https://markmanlab.stanford.edu/).
+I'm currently a postdoctoral researcher at New York University, working with [Marjorie Rhodes](https://kidconcepts.org/) and [Mark Ho](https://codec-lab.github.io/). I received my PhD in developmental psychology from Stanford University in 2024, working with [Ellen Markman](https://markmanlab.stanford.edu/).
 
 My research uses a combination of developmental, cognitive, and computational methods to study how representations of social categories emerge in childhood, how such representations are transmitted from person to person, and what cognitive mechanisms explain such processes. 
 

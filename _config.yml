@@ -7,6 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
+site_theme               : "default" # NEW (theme migration, Sept 2026): available options are "default", "air", "sunrise", "mint", "dirt", "contrast".
+                                      # Each theme now auto-adapts to the visitor's light/dark mode preference (with a manual toggle in the masthead).
 title                    : "Marianna Zhang"
 title_separator          : "-"
 name                     : &name "Marianna Zhang"
@@ -47,6 +49,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
+  hide                   : false # NEW field -- change to true to hide the RSS feed link in the footer
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
@@ -63,6 +66,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
+og_description           :  # NEW field -- Open Graph/Twitter default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -72,48 +76,87 @@ social:
 
 
 # Analytics
+# HEADS UP (theme migration, Sept 2026): "google-universal" (Universal Analytics, UA-... IDs) stopped
+# processing data in July 2023 -- this tracking ID is very likely dead. The theme now also supports
+# "google-analytics-4" for a G-... measurement ID from Google Analytics 4. Left as-is for now; swap the
+# provider + tracking_id below once you have a GA4 measurement ID if you want working analytics again.
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          : UA-131282562-1
 
 
-# Site Author
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
 author:
-  name             : "Marianna Zhang"
+  # Biographic information
   avatar           : "profile.jpg"
+  name             : "Marianna Zhang"
+  pronouns         : # example: "she/her" -- NEW field (theme migration, Sept 2026); currently blank since "(she/her)" is already in the bio line below
   bio              : "Postdoctoral Fellow in Developmental Psychology (she/her)"
   location         : "New York University"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=U-SQQ48AAAAJ"
-  email            : "marianna.zhang@nyu.edu"
-  researchgate     : # "https://www.researchgate.net/profile/Marianna_Zhang"
   uri              : # "https://mariannazhang.youcanbook.me"
+  email            : "marianna.zhang@nyu.edu"
+
+  # Academic websites
+  academia         : # URL -- NEW field
+  arxiv            : # URL -- NEW field
+  googlescholar    : "https://scholar.google.com/citations?user=U-SQQ48AAAAJ"
+  inspire-hep      : # URL -- NEW field
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  orcid            : "https://orcid.org/0000-0002-0420-433X"
+  semantic         : # URL -- NEW field
+  ssrn             : # URL -- NEW field
+  pubmed           : # URL -- NEW field
+  researchgate     : # "https://www.researchgate.net/profile/Marianna_Zhang"
+  scopus           : # URL -- NEW field
+  zotero           : # URL -- NEW field
+
+  # Repositories and software development
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "mariannazhang"
+  kaggle           : # NEW field
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+
+  # Social media
+  artstation       : # NEW field
+  bluesky          : # NEW field
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        : # NEW field
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # "mariannazhang"
-  orcid            : "https://orcid.org/0000-0002-0420-433X"
+  mastodon         : # URL -- NEW field
+  medium           : # URL -- NEW field
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
+  telegram         : # URL -- NEW field
   tumblr           :
   twitter          : "marianna_zhang"
   vine             :
   weibo            :
+  wikipedia        :
   xing             :
   youtube          :
-  wikipedia        :
+  zhihu            : # NEW field
+
+# Publication Category -- NEW (theme migration, Sept 2026): only used if your _publications front matter
+# sets a matching "category" field; harmless to leave as-is otherwise.
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'
+  conferences:
+    title: 'Conference Papers'
 
 
 # Reading Files
@@ -128,6 +171,7 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .github # NEW (theme migration, Sept 2026)
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG

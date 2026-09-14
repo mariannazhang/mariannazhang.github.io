@@ -1,0 +1,24 @@
+/* ==========================================================================
+   CUSTOM OVERRIDES — Marianna's personal tweaks, carried over from the
+   pre-migration theme so the site keeps looking the same after the
+   September 2026 academicpages theme migration.
+
+   These are written as plain CSS (not theme variables) on purpose: the new
+   theme's variable names differ from the old theme's, so overriding the
+   rendered properties directly is more reliable than trying to guess the
+   new variable names.
+
+   Feel free to delete or edit anything here once you've compared the new
+   look against the old site and decided what you actually want to keep.
+   ========================================================================== */
+
+// Sidebar avatar was enlarged from the theme default (110px) to 175px
+.author__avatar img {
+  max-width: 175px !important;
+}
+
+// Sidebar was set to stay fully visible (no fade-on-hover) at large screens,
+// instead of the theme default of a slightly faded, opacity: 1 on hover
+.sidebar {
+  opacity: 1 !important;
+}

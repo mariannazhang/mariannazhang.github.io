@@ -24,11 +24,14 @@ For PhD programs, I was torn between staying close-by in Chicago or starting a n
 
 The COVID-19 pandemic hit in the middle of my second year of graduate school. Although remote work allowed my partner and I to reunite, it was a time of anxiety and fear about our own health and well-being, that of our friends and families, about broader inequalities in society, and about [the state of the planet](https://www.newyorker.com/culture/video-dept/the-day-the-san-francisco-sky-turned-orange). My research felt like the least significant thing in the world. After reemerging from those bleak days, I committed to studying children's reasoning about social categories and social disparities, culminating in my dissertation on the social significance of children attributing social disparities to social structures rather than to inherent features of social groups. 
 
-I've now returned to my roots in NYC as a postdoc at NYU, where I'm continuing my work on children's reasoning about social groups, funded by [a fellowship from the National Science Foundation](https://new.nsf.gov/funding/opportunities/sbe-postdoctoral-research-fellowships-sprf). I'm more than happy to chat with anyone about applying to NSF postdoc fellowships and my general experience with the postdoc search process. My partner and I live in Greenwich Village, and spend our time exploring the city, playing board games with friends, and doing our best to get outdoors. 
+I've now returned (along with my partner) to my roots in NYC as a postdoc at NYU, where I'm continuing my research on social category representations, while learning computational cognitive methods. My postdoctoral work was funded by the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2404708) before my fellowship was [abruptly terminated](https://bsky.app/profile/mariannazhang.bsky.social/post/3lnpq6fb46k2t); my research is now internally funded by NYU.  
 
 ## Outside academia
-I'm a second-generation Asian American woman. 
+I'm a second-generation Asian American woman. I speak English (my native language) and Mandarin (my heritage language).
 
-I'm most at home in the vibrancy and energy of big cities. I love to explore museum exhibits, attend plays, and watch independent movies. However, my time in the Bay Area during the COVID-19 pandemic also (re)ignited some outdoorsy hobbies, such as hiking, backpacking, climbing, and [caving](https://www.sfbaycaving.org/). I've also been involved in the [quizbowl community](http://www.pace-nsc.org/what-is-quizbowl-a-primer-and-faq-for-newcomers/) for more than a decade, where I have been particularly passionate about diversity and inclusivity. 
+I love the vibrancy and energy of big cities - I love to explore museum exhibits, attend plays, and watch independent movies. However, my time in the Bay Area during the COVID-19 pandemic also ignited some outdoorsy hobbies, such as hiking, backpacking, climbing, and [caving](https://www.sfbaycaving.org/). 
 
-I speak English (my native language) and Mandarin (my heritage language).
+Currently, you can find me [trad climbing](https://www.mountainproject.com/user/200332318/marianna-z) in [the Gunks](https://www.scenichudson.org/viewfinder/the-legendary-history-of-rock-climbing-in-the-shawangunks/), ~~doing recon sweeps at the REI resupply section~~ (rip), eking out the last of my 30-35 under 30-35 [discounts on Broadway](https://bwayrush.com/), and playing the restaurant reservation game. 
+
+I am retired from a decade-plus stint playing [quizbowl](http://www.pace-nsc.org/what-is-quizbowl-a-primer-and-faq-for-newcomers/), where I was particularly passionate about diversity and inclusivity, both in question writing and in the community.
+

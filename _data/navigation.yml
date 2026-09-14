@@ -1,8 +1,6 @@
 # main links links
 
 main:
-#   - title: "Publications"
-#     url: /publications/
 
 #   - title: "Talks"
 #     url: /talks/
@@ -16,6 +14,9 @@ main:
    - title: "CV"
      url: /cv/
 
+   - title: "Research"
+     url: /research/
+
    - title: "Teaching"
      url: /teaching/
 
@@ -23,7 +24,7 @@ main:
      url: /resources/
 
    - title: "Participate in research!"
-     url: https://markmanlab.stanford.edu/participate.html
+     url: https://www.discoveriesinaction.org/accounts/home/
 
 
 

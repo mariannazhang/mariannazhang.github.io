@@ -23,19 +23,17 @@
   opacity: 1 !important;
 }
 
-// The theme pins the footer (which includes the "Sitemap" link) to the
-// bottom of the viewport at all times on non-mobile screens via
-// `position: fixed`, so it stays visible while scrolling instead of sitting
-// at the natural end of the page. Reverted to normal in-flow placement
-// (matching what the theme already does on mobile) so it only shows up once
-// you actually scroll to the bottom of a page's content.
+// The footer (copyright/attribution line, "Site last updated" text, and
+// GitHub/Feed/Sitemap links) is hidden entirely, per request -- previously
+// it was just un-stuck from its `position: fixed` pin to the bottom of the
+// viewport, but now none of it renders at all.
 .page__footer {
-  position: relative !important;
-  bottom: auto !important;
+  display: none !important;
 }
 
 body {
-  // This padding existed only to keep page content from being hidden behind
-  // the pinned footer above; no longer needed now that it's back in-flow.
+  // The theme's default bottom padding exists to keep page content clear of
+  // the (normally fixed-position) footer. No longer needed since the
+  // footer is hidden entirely.
   padding-bottom: 0 !important;
 }

@@ -22,3 +22,20 @@
 .sidebar {
   opacity: 1 !important;
 }
+
+// The theme pins the footer (which includes the "Sitemap" link) to the
+// bottom of the viewport at all times on non-mobile screens via
+// `position: fixed`, so it stays visible while scrolling instead of sitting
+// at the natural end of the page. Reverted to normal in-flow placement
+// (matching what the theme already does on mobile) so it only shows up once
+// you actually scroll to the bottom of a page's content.
+.page__footer {
+  position: relative !important;
+  bottom: auto !important;
+}
+
+body {
+  // This padding existed only to keep page content from being hidden behind
+  // the pinned footer above; no longer needed now that it's back in-flow.
+  padding-bottom: 0 !important;
+}

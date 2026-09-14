@@ -3,6 +3,11 @@
 
 // Vendor SCSS compile to reduce main.scss weight
 
+// This site keeps its Font Awesome font files in assets/fonts (not the
+// Font Awesome default of assets/webfonts), so override the path before
+// importing.
+$fa-font-path: "../fonts";
+
 @import
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
